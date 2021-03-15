@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 group-title="Lista xtv28",Win Sports Plus
+https://blackghost.live/311/tvx.php?opcion=xtv28&c=73658.m3u8
+#EXTINF:-1 group-title="Lista xtv28",Win Sports Plus
+https://blackghost.live/311/tvx.php?opcion=xtv28&c=73659.m3u8
+#EXTINF:0 group-title="Lista TV", BEIN SPORTS Ñ
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1844_&f.m3u8
+#EXTINF:0 group-title="Lista TV", BEIN SPORTS
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1868_&f.m3u8
+#EXTINF:0 group-title="Lista TV", HBO PLUS
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1557_&f.m3u8
+#EXTINF:0 group-title="Lista TV", HBO FAMILY
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1556_&f.m3u8
+#EXTINF:0 group-title="Lista TV", FOX SERIES
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1495_&f.m3u8
+#EXTINF:0 group-title="Lista TV", FOX ACTION
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1496_&f.m3u8
+#EXTINF:0 group-title="Lista TV", FOX CLASSIC
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1498_&f.m3u8
+#EXTINF:0 group-title="Lista TV", FOX FAMILY
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1500_&f.m3u8
+#EXTINF:0 group-title="Lista TV", FOX CHANNEL
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=141_&f.m3u8
+#EXTINF:-1 group-title="Lista xtv28",SUR Directv Sports.m3u8
+https://blackghost.live/311/tvx.php?opcion=xtv28&c=11452.m3u8
+#EXTINF:-1 group-title="Lista xtv28",SUR Directv Sports 2
+https://blackghost.live/311/tvx.php?opcion=xtv28&c=9985.m3u8
+#EXTINF:-1 group-title="Lista xtv28",SUR Directv Sports +
+https://blackghost.live/311/tvx.php?opcion=xtv28&c=9981.m3u8
+#EXTINF:-1 group-title="ZuTV",Azteca Uno
+https://blackghost.live/play/zufree-311.php?c=265.m3u8
+#EXTINF:-1 group-title="Lista xtv27",MX | Las Estrellas
+https://blackghost.live/311/tvx.php?opcion=xtv27&c=110648
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="TPLEY", Star Channel (HD)
+http://cinematicket.club/cantp.php?c=201&p=3&k=tecnotv&f=.m3u8
+
+
